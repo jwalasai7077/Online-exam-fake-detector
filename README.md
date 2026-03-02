@@ -12,7 +12,6 @@ This repository combines multiple computer-vision and audio-analysis experiments
 
 ---
 
-
 ## Project Overview
 
 The core integrated script (`Proctor.py`) loads face detection, landmark estimation, and spoofing models, opens webcam/video input, and overlays alerts frame-by-frame.
